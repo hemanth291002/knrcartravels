@@ -1,0 +1,154 @@
+.width_banner{
+    
+    width:100vw;
+    height:80vh;
+
+}
+.width_banner img{
+      width:inherit;
+      height: inherit;
+}    
+
+.about p{
+  width: 200px;
+}
+footer{
+    background-image:linear-gradient(30deg,#001f3d,#432292,#001f3d);
+}
+
+
+.nav-item .nav-link{
+    color:whitesmoke;
+
+
+}
+.ban{
+    width: inherit;
+    height: inherit;
+}
+.nav-item .nav-link:hover{
+    color:aquamarine;
+    
+}
+h4{
+    color:cornsilk;
+    font-size: 20px;
+}
+p{
+    color:aliceblue;
+
+}
+.short_links #short_links{
+    text-decoration: none;
+    padding:10px;
+    border-radius: 20px;
+    color:aliceblue;
+}
+.short_links #short_links:hover{
+    color:black;
+    background-color: aliceblue;
+    
+    
+}
+hr{
+    color:aliceblue;
+}
+.safe-messured p{
+    color:black;
+
+}
+.card-text{
+    color:black;
+}
+#etios{
+    width:inherit;
+    height:inherit;
+}
+.card{
+    border: none;
+    outline: none;
+    overflow: hidden;
+}
+#temple{
+    width:100%;
+    height:50vh;
+}
+#full{
+    position:relative;
+
+}
+#booking{
+position:absolute;
+top:400px;
+right:50%;
+cursor: pointer;
+}
+.booking{
+    background-color: transparent;
+    color:white;
+    border:1px solid ;
+    box-shadow: 0 0 5px #28dddd;
+    border-radius: 10px;
+    font-weight: 500;
+    text-decoration: none;
+    padding:2px;
+    
+}
+#booking:hover{
+    background-color: #28dddd;
+    border-radius: 10px;
+   
+
+}
+#header{
+    background-color: black;
+}
+.banner{
+    background-image: url("images/toyoto.jpg");
+    max-width:100vw;
+    height:100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+#tempo{
+    width: inherit;
+}
+.txt{
+    height:inherit;
+    color:#28dddd;
+}
+.txt-area{
+
+    text-shadow:0 0 10px #28dddd;
+    border: none;
+}
+html,body{
+    width:100%;
+    height:100%;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+ 
+}
+.hr{
+    margin: 2px auto;
+    color:black;
+}
+/* *{
+    overflow-x: hidden;
+} */
+
+.main{
+    overflow-x: hidden;
+}
+.years{
+    background-color: #b2d7fc;
+}
+.set{
+    color: #158bfe;
+}
+.grow-more{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
